@@ -1,1 +1,3 @@
-# Refresher w/ CSS & SASS! Create a cool website
+# Refresher w/ CSS & SASS!
+
+### Exercise website
